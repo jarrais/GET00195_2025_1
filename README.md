@@ -19,16 +19,16 @@ Foram consideradas **apenas as escolas situadas no estado do Rio de Janeiro**, e
 
 # Indicadores Produzidos
 
-Ao todo, foram construídos **41 indicadores**, abordando os seguintes aspectos:
+Ao todo, foram construídos **41 indicadores**, calculados por município, abordando os seguintes aspectos:
 
-- **Acessibilidade**: banheiros PNE, salas adaptadas, sinalização visual, etc.;
+- **Acessibilidade**: banheiros acessíveis para pessoas com necessidades especiais, salas adaptadas, sinalização visual, etc.;
 - **Infraestrutura**: biblioteca, quadra esportiva, laboratório, climatização, saneamento;
-- **Inclusão**: AEE, profissionais de saúde, psicólogos(as), nutricionistas;
+- **Inclusão**: salas para atendimento educacional especializado, profissionais de saúde, psicólogos(as), nutricionistas;
 - **Tecnologia**: internet, computadores, banda larga;
 - **Organização escolar**: grêmio estudantil, alimentação, reciclagem;
 - **Tipologia das escolas**: públicas/privadas, zona urbana/rural, entre outras.
 
-Os indicadores foram calculados por município, segmentados por **dependência administrativa** (federal, estadual, municipal e privada).
+Os indicadores foram calculados por município, sendo alguns segmentados por **dependência administrativa** (federal, estadual, municipal e privada).
 
 Para detalhes técnicos e fórmulas matemáticas, consulte o documento:
 
@@ -47,11 +47,11 @@ O repositório contém os seguintes arquivos principais:
 
 O projeto foi desenvolvido inteiramente em **linguagem R**, com uso dos seguintes pacotes:
 
-dplyr
-readr
-tidyr
-naniar
-writexl
+- dplyr
+- readr
+- tidyr
+- naniar
+- writexl
 
 # Participantes
 
@@ -64,7 +64,6 @@ Este projeto foi realizado por estudantes da disciplina **GET00195 – Prática 
 - DANIEL MARTINS DE FARIA
 - DAVI LUCAS DE JESUS CAETANO
 - EDERSON MACEDO DE CARVALHO MORAES
-- FELIPE DE OLIVEIRA ADIPPE
 - FELIPE MAIA RODRIGUES DE MIRANDA
 - FERNANDA ALEXANDRINA DOS SANTOS
 - FERNANDO LUCAS SANTOS DE OLIVEIRA
@@ -97,7 +96,7 @@ Este projeto foi realizado por estudantes da disciplina **GET00195 – Prática 
 - THIAGO DE OLIVEIRA SENRA
   
 
-Orientação: **Prof. Jony Arrais Pinto Junior**
+Orientação: **Prof. Jony Arrais**
 
 
 # Como Reproduzir os Resultados
