@@ -4,8 +4,6 @@ Este repositório apresenta a implementação de um conjunto de **indicadores ed
 
 O objetivo central deste trabalho é oferecer uma visão detalhada da realidade educacional nos municípios fluminenses, contribuindo para o **monitoramento**, **avaliação** e **planejamento de políticas públicas** voltadas à educação básica.
 
----
-
 # Visão Geral
 
 O projeto foi desenvolvido no âmbito da disciplina **GET00195 – Prática Estatística I**, no semestre **2025/1**, da **Universidade Federal Fluminense (UFF)**, sob a orientação do professor **Jony Arrais**.
@@ -17,9 +15,7 @@ A construção dos indicadores envolveu duas etapas principais:
 1. **Definição metodológica** — com a formalização dos indicadores por meio de expressões matemáticas;
 2. **Implementação computacional** — com a aplicação de scripts em **R** sobre os microdados originais.
 
-> Foram consideradas **apenas as escolas situadas no estado do Rio de Janeiro**, em funcionamento e com pelo menos uma matrícula na educação básica.
-
----
+Foram consideradas **apenas as escolas situadas no estado do Rio de Janeiro**, em funcionamento e com pelo menos uma matrícula na educação básica.
 
 # Indicadores Produzidos
 
@@ -38,8 +34,6 @@ Para detalhes técnicos e fórmulas matemáticas, consulte o documento:
 
 Texto_Final_Indicadores_Educacionais_2025_1.pdf
 
----
-
 # Estrutura do Repositório
 
 O repositório contém os seguintes arquivos principais:
@@ -48,8 +42,6 @@ O repositório contém os seguintes arquivos principais:
 - `base_final.xlsx` — planilha final contendo os indicadores agregados por município;
 - `Texto_Final_Indicadores_Educacionais_2025_1.pdf` — documentação com as fórmulas e explicações técnicas;
 - `microdados_censo_2024.csv` — base de dados original (recomenda-se baixar direto do INEP, devido ao tamanho).
-
----
 
 # Ferramentas Utilizadas
 
@@ -65,16 +57,48 @@ writexl
 
 Este projeto foi realizado por estudantes da disciplina **GET00195 – Prática Estatística I** do curso de **Estatística da Universidade Federal Fluminense (UFF)**, turma 2025/1:
 
-- Beatriz Franco de Freitas  
-- Davi Lucas de Jesus Caetano  
-- Felipe Maia Rodrigues de Miranda  
-- João Pedro Santos Machado  
-- Kiane Sassaki Menezes  
-- Paolla Pinheiro Pacheco  
+- ANA LUIZA KOCH PORTO
+- ANDRE MORENO RIBEIRO GOMES
+- BEATRIZ FRANCO DE FREITAS
+- BRUNO OLIVEIRA ALVES DOS SANTOS
+- DANIEL MARTINS DE FARIA
+- DAVI LUCAS DE JESUS CAETANO
+- EDERSON MACEDO DE CARVALHO MORAES
+- FELIPE DE OLIVEIRA ADIPPE
+- FELIPE MAIA RODRIGUES DE MIRANDA
+- FERNANDA ALEXANDRINA DOS SANTOS
+- FERNANDO LUCAS SANTOS DE OLIVEIRA
+- FILIPE DE CARVALHO SANT ANNA
+- GABRIEL LUIS ALVES GONCALVES DE SOUZA
+- GABRIEL VIEIRA RABELO
+- GUSTAVO DE SANSON KOVACS
+- GUSTAVO MEDEIROS MARINHO DE LIMA
+- ILIDIO DO NASCIMENTO ALVES JUNIOR
+- JOAO PEDRO SANTOS MACHADO
+- JOAO VITOR NEVES PEREIRA
+- JOAO VITOR PIMENTEL HANNIG
+- KIANE SASSAKI MENEZES
+- LORENA NEIVA TORRES
+- LUCAS GOMES CRUD
+- LUCAS RODRIGO DE MOURA ARAGÃO
+- MARCELO RIBEIRO DE CASTRO ROCHA
+- MATHEUS DE SOUZA DA SILVA
+- MILENA BRANCO LABRE DE OLIVEIRA RODRIGUES
+- OLGA GUIMARAES GRICHTCHOUK
+- PAOLLA PINHEIRO PACHECO
+- PATRICK DOS REIS DIAS
+- PAULO HENRIQUE MARTINEZ MACHADO
+- PAULO VICTOR ZAVA PEREIRA
+- PEDRO AUGUSTO MENEZES ROCHA
+- PEDRO TRUPPEL DUARTE XAVIER
+- RENATO GUIMARAES GUERREIRO
+- RICARDO AUGUSTO FIGUEIREDO DE OLIVEIRA
+- THAIS NASCIMENTO DE OLIVEIRA RABELLO
+- THIAGO DE OLIVEIRA SENRA
+  
 
 Orientação: **Prof. Jony Arrais Pinto Junior**
 
----
 
 # Como Reproduzir os Resultados
 
