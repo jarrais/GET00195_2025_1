@@ -41,7 +41,7 @@ O repositório contém os seguintes arquivos principais:
 - `script_indicadores.R` — script completo em R com a limpeza, filtragem e cálculo dos indicadores;
 - `base_final.xlsx` — planilha final contendo os indicadores agregados por município;
 - `Texto_Final_Indicadores_Educacionais_2025_1.pdf` — documentação com as fórmulas e explicações técnicas;
-- `microdados_censo_2024.csv` — base de dados original (recomenda-se baixar direto do INEP, devido ao tamanho).
+- `Dicionario_base_final.xlsx` — dicionário das variáveis que compõem o arquivo base_final.xlsx.
 
 # Ferramentas Utilizadas
 
